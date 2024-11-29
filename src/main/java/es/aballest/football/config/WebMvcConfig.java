@@ -16,7 +16,7 @@ import org.springframework.web.servlet.view.JstlView;
 @Configuration
 @EnableWebMvc
 @ComponentScan(basePackages = {
-        "net.javaguides.springmvc"
+        "es.aballest.football"
 })
 public class WebMvcConfig implements WebMvcConfigurer {
 
